@@ -1,9 +1,11 @@
-bluemix-cloudant-app
+bluemix-cloudant-java
 ====================
 
-This is an application running on Bluemix with Cloudant srevice
+This is a Bluemix Java Stater applciation, in this application, will use Coudant DB, a non-sql database.
 
 
 ==============================
-App will be upload soon, please wait....
+Get application code 
 ================================
+
+Fork code from https://hub.jazz.net/project/arzetry/bluemix-cloudant-java/overview
